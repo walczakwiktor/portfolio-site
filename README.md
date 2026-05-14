@@ -74,5 +74,5 @@ Total cost at idle traffic: effectively $0 within AWS Free Tier and Always Free 
 
 IT Support Specialist with 8+ years of international experience, AWS Certified Cloud Practitioner, transitioning into cloud-focused roles. This project is the first of three AWS portfolio projects.
 
-* AWS Certified Cloud Practitioner — issued May 2026
+* AWS Certified Cloud Practitioner — 2026
 
