@@ -8,7 +8,7 @@ A static personal portfolio site hosted on AWS, demonstrating a production-grade
 
 ## Architecture
 
-!\[Architecture diagram](./architecture.png)
+![Architecture diagram](./architecture.png)
 
 A request flows through three AWS services:
 
